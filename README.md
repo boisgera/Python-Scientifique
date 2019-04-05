@@ -14,3 +14,5 @@ Les notebooks
 -------------
 
 Projet Jupyter: <https://jupyter.org/>
+
+[Essayez les notebooks dans votre navigateur](https://jupyter.org/try)
