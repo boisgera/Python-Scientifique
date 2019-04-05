@@ -10,3 +10,7 @@ Usages de Python
   
   - calcul scientifique
   
+Les notebooks
+-------------
+
+Projet Jupyter: <https://jupyter.org/>
