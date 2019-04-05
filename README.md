@@ -11,6 +11,8 @@ Usages de Python
   - calcul scientifique, data science, machine learning.
   
   - usages "métiers" (Web, etc.)
+  
+  (cf. [sondage JetBrains](https://www.jetbrains.com/research/python-developers-survey-2017/#types-of-development))
 
 Les notebooks
 -------------
