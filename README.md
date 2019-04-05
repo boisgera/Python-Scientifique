@@ -4,15 +4,19 @@ Python Scientifique
 Usages de Python
 ----------------
 
-  - administration, "scripting"
+  - administration, "scripting", etc.
 
-  - développement logiciel,
+  - développement rapide d'applications (RAD) & prototypage,
   
-  - calcul scientifique
+  - calcul scientifique, data science, machine learning.
   
+  - usages "métiers" (Web, etc.)
+
 Les notebooks
 -------------
 
-Projet Jupyter: <https://jupyter.org/>
+  - Projet Jupyter: <https://jupyter.org/>
 
-[Essayez les notebooks dans votre navigateur](https://jupyter.org/try)
+  - [Essayez les notebooks dans votre navigateur](https://jupyter.org/try)
+
+  - [Lancer le notebook de ce répertoire](https://mybinder.org/v2/gh/boisgera/Python-Scientifique/master?filepath=Python-Scientifique.ipynb)
