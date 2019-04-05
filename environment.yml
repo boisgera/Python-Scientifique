@@ -1,0 +1,11 @@
+name: scientific-python
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyter
+
+
