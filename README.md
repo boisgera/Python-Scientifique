@@ -22,3 +22,11 @@ Les notebooks
   - [Essayez les notebooks dans votre navigateur](https://jupyter.org/try)
 
   - [Lancer le notebook de ce répertoire](https://mybinder.org/v2/gh/boisgera/Python-Scientifique/master?filepath=Python-Scientifique.ipynb)
+
+  - Exemples de projets avec notebooks:
+      
+    - [Les notebooks pour l'enseignement](https://github.com/boisgera/MEDIANE)
+    
+    - [Automatique avec Python](https://github.com/boisgera/control-engineering-with-python) 
+
+    - [Compression Audio](https://github.com/boisgera/audio-notebooks)
